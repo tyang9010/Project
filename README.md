@@ -1,6 +1,4 @@
-Project
+UC Berkeley Capstone Project Spring 2014
 =======
-
-UC Berkeley Capstone Project.
 
 Contributed by Zoe W., & Michael Y.
